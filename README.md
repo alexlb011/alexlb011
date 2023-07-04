@@ -3,11 +3,20 @@
  - 🔭 I’m currently working on Back-end
  - 🌱 I’m currently learning Ruby
 
+   
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 HIGHLIGHT
+
 https://appstudent.netlify.app
+
 Project to emulate a system from gym, with database for personal trainers and they clients/athletes.
+
 Front-End: React / Typescript / Axios / Redux
+
 Back-End: Typescript / Node / Express / AWS / Multer 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div style="display: inline_block"><br>
   <img align="center" s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
