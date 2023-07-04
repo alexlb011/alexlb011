@@ -11,8 +11,8 @@
 ### HIGHLIGHT
 --------------------------------------------------------------------------------------------------------------------------------------------------
 https://appstudent.netlify.app
-Project to emulate a system from gym, with database for personal trainers and they clients/athletes.
 
+### - Project to emulate a system from gym, with database for personal trainers and they clients/athletes.
 - Front-End: React / Typescript / Axios / Redux
 - Back-End: Typescript / Node / Express / AWS / Multer 
 --------------------------------------------------------------------------------------------------------------------------------------------------
