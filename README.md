@@ -13,7 +13,7 @@
 https://appstudent.netlify.app
 
 ### - Project to emulate a system from gym, with database for personal trainers and they clients/athletes.
-- Front-End: React / Typescript / Axios / Redux
+- Front-End: React / Typescript / Axios / Redux - https://github.com/alexlb011/FitEase.git
 - Back-End: Typescript / Node / Express / AWS / Multer 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
