@@ -10,7 +10,8 @@
 
 ### HIGHLIGHT
 --------------------------------------------------------------------------------------------------------------------------------------------------
-https://appstudent.netlify.app
+### FitEase
+https://fitease.netlify.app
 
 ### - Project to emulate a system from gym, with database for personal trainers and they clients/athletes.
 - Front-End: React / Typescript / Axios / Redux - https://github.com/alexlb011/FitEase.git
