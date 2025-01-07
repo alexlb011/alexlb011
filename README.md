@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- - 🔭 I’m currently working on Back-end
- - 🌱 I’m currently learning Ruby
+ -Back-end
 
    
 
